@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1033145193115",
+    "firebase_url": "https://chandigarh-798a3.firebaseio.com",
+    "project_id": "chandigarh-798a3",
+    "storage_bucket": "chandigarh-798a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033145193115:android:c656607cfedd2be4c9ec3e",
+        "android_client_info": {
+          "package_name": "com.covid19.chandigarh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033145193115-drc0vj5m3adssmp5k1tiipbs7fhsi5j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS14Eon_7q7luh_GNq1jo28PJ2rqjfwQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033145193115-drc0vj5m3adssmp5k1tiipbs7fhsi5j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
