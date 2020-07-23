@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1033145193115-v1aiv0k93sfhb2quatuh08q0qe5c69gn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.chandigarh",
+            "certificate_hash": "f76792e2380e9d5d17ec85c25ca5c7960f4168eb"
+          }
+        },
+        {
           "client_id": "1033145193115-drc0vj5m3adssmp5k1tiipbs7fhsi5j1.apps.googleusercontent.com",
           "client_type": 3
         }
